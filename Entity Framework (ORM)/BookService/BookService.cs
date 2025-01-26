@@ -34,7 +34,7 @@ namespace Entity_Framework__ORM_
 
             AppDbContext context = new AppDbContext();
 
-            allBooks = context.Books.ToList();
+            allBooks = context.Books.Include(x => x.Genre).ToList();
             return allBooks;
         }
 

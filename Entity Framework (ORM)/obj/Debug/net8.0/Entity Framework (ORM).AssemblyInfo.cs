@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Entity Framework (ORM)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a2612f23b9155324b16f6995baea481a3710720")]
 [assembly: System.Reflection.AssemblyProductAttribute("Entity Framework (ORM)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Entity Framework (ORM)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

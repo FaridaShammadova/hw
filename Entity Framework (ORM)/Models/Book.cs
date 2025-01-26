@@ -15,7 +15,7 @@ namespace Entity_Framework__ORM_
 
         public override string ToString()
         {
-            return $"{Id} - {Name} - {SalePrice} - {CostPrice}";
+            return $"{Id} - {Name} - {CostPrice} - {SalePrice} - {Genre.Name}";
         }
     }
 }
